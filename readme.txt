@@ -1,1 +1,2 @@
- "Bonjour!", 
+ "Bonjour!",  
+ "Comment alles vous?"
